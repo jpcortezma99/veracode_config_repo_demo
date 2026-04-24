@@ -1,0 +1,13 @@
+{
+  "teams": "equipo-seguridad",
+  "appType": "web",
+  "businessOwner": "Juan Perez",
+  "businessOwnerEmail": "juan.perez@empresa.com",
+  "businessUnit": "finanzas",
+  "gitRepo": "https://github.com/empresa/proyecto.git",
+  "filePath": "target/*.jar",
+  "appName": "mi-aplicacion",
+  "version": "1.0.0",
+  "debug": false,
+  "sincrono": true
+}
