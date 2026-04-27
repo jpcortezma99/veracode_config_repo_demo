@@ -1,5 +1,3 @@
-# ejemplo de como deberia ir en el PIPELINE
-# del repo viene el 'veracode-config.json'
 
 stages {
     stage('Veracode Scan') {
